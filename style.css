@@ -1,0 +1,25 @@
+a{
+  color: white;
+  text-decoration: none;
+}
+button{
+  background-color: black;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  transition: all 300ms ease-in-out;
+}
+button:hover{
+  background-color: red;
+}
+div#liste-btn{
+  display: flex;
+  justify-content: space-around;
+}
+h2{
+  text-align: center;
+}
+div#intro{
+  background-color: grey;
+  padding: 30px;
+}
